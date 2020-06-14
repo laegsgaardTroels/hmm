@@ -4,4 +4,4 @@ This is an example of how to use a Hidden Markov Model for changepoint detection
 
 # References
 
-[1]: https://github.com/hmmlearn/hmmlearn "The hmmlearn project."
+[1] https://github.com/hmmlearn/hmmlearn 
